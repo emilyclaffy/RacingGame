@@ -1,0 +1,42 @@
+h1 {
+	text-align: center;
+	font-size: 75px;
+	font-family: 'ariel';
+	color: black;
+	text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
+
+}
+.dot {
+	height: 50px;
+	width: 100px;
+	border-radius: 0px;
+	background: url(http://www.capitalcitymotors.co.nz/fileadmin/user_upload/ccm-icon-b-small.png) no-repeat;
+}
+
+body {
+	text-align: center;
+	background-color: #99FFCC;
+}
+
+table {
+	margin: auto;
+}
+
+table tr td {
+	height: 70px;
+	width: 100px;
+	padding: 1px;
+	border: 2px solid white;
+}
+
+.gray-background {
+	background-color: gray;
+}
+
+.white-background {
+	background-color: white;
+}
+
+.finish-block {
+	width: 147px;
+	background: url(http://carpetbargains.com/images/checkered_flag-small.jpg) no-repeat;}
